@@ -1,2 +1,3 @@
-# apresentacao_github
-Lightning talk sobre GitHub e o Mundo OpenSource
+# GitHub e o Mundo OpenSource
+
+![MIT](https://octodex.github.com/images/dojocat.jpg)
