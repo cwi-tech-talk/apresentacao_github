@@ -15,8 +15,8 @@ Contribuir com projetos OpenSource, ou criá-los por que não, pode lhe trazer r
 O GitHub fez com que o conceito de comunidade se tornasse muito mais presente em projetos OpenSource. Como todo mundo pode opinar e contribuir, o software criado acaba sendo de todos. Outra vantagem, é que problemas são encontrados e resolvidos rapidamente, já que dependendo do projeto diversas pessoas estão de olho nele.
 
 ## Grandes Players também estão aqui
-* [Facebook]https://github.com/facebook
-* [Google]https://github.com/google
-* [Netflix]https://github.com/Netflix
-* [Amazon Web Services]https://github.com/aws/
-* [Globo]https://github.com/globocom
+* [Facebook](https://github.com/facebook)
+* [Google](https://github.com/google)
+* [Netflix](https://github.com/Netflix)
+* [Amazon Web Services](https://github.com/aws/)
+* [Globo](https://github.com/globocom)
