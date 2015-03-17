@@ -20,3 +20,7 @@ O GitHub fez com que o conceito de comunidade se tornasse muito mais presente em
 * [Netflix](https://github.com/Netflix)
 * [Amazon Web Services](https://github.com/aws/)
 * [Globo](https://github.com/globocom)
+
+## Quero usar mas não sei nada disso...
+* [Contribuindo em projetos opensource com o GitHub](http://tableless.com.br/contribuindo-em-projetos-open-source-com-o-github/)
+* [DA2K - Diversos posts](http://blog.da2k.com.br/categories/github/)
