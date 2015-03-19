@@ -19,7 +19,15 @@ O GitHub fez com que o conceito de comunidade se tornasse muito mais presente em
 * [Google](https://github.com/google)
 * [Netflix](https://github.com/Netflix)
 * [Amazon Web Services](https://github.com/aws/)
+* [Microsoft](https://github.com/Microsoft/)
 * [Globo](https://github.com/globocom)
+
+## Projetos grandes que estão aqui
+* [Docker](https://github.com/docker/docker)
+* [Angular](https://github.com/angular/angular)
+* [Bootstrap](https://github.com/twbs/bootstrap)
+* [Node.js](https://github.com/joyent/node)
+* [Ruby on Rails](https://github.com/rails/rails)
 
 ## Quero usar mas não sei nada disso...
 * [Contribuindo em projetos opensource com o GitHub](http://tableless.com.br/contribuindo-em-projetos-open-source-com-o-github/)
