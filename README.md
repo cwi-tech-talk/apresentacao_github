@@ -13,7 +13,7 @@ Contribuir com projetos OpenSource, ou criá-los por que não, pode lhe trazer r
 
 ## Comunidade
 O GitHub fez com que o conceito de comunidade se tornasse muito mais presente em projetos OpenSource. Como todo mundo pode opinar e contribuir, o software criado acaba sendo de todos. Outra vantagem, é que problemas são encontrados e resolvidos rapidamente, já que dependendo do projeto diversas pessoas estão de olho nele.
-*[FrontEndUnited for LeoKZ](http://frontendunited.io/leokzw/)
+* [FrontEndUnited for LeoKZ](http://frontendunited.io/leokzw/)
 
 ## Projetos grandes que estão aqui
 * [Docker](https://github.com/docker/docker)
