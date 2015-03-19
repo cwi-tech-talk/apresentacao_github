@@ -13,6 +13,7 @@ Contribuir com projetos OpenSource, ou criá-los por que não, pode lhe trazer r
 
 ## Comunidade
 O GitHub fez com que o conceito de comunidade se tornasse muito mais presente em projetos OpenSource. Como todo mundo pode opinar e contribuir, o software criado acaba sendo de todos. Outra vantagem, é que problemas são encontrados e resolvidos rapidamente, já que dependendo do projeto diversas pessoas estão de olho nele.
+*[FrontEndUnited for LeoKZ](http://frontendunited.io/leokzw/)
 
 ## Projetos grandes que estão aqui
 * [Docker](https://github.com/docker/docker)
@@ -22,12 +23,22 @@ O GitHub fez com que o conceito de comunidade se tornasse muito mais presente em
 * [Ruby on Rails](https://github.com/rails/rails)
 
 ## Grandes Players também estão aqui
+Grandes empresas também investem forte em projetos OpenSource. Algumas delas tem times desenvolvendo exclusivamente projetos OpenSource, como por exemplo o Google com o AngularJS.
 * [Facebook](https://github.com/facebook)
 * [Google](https://github.com/google)
 * [Netflix](https://github.com/Netflix)
 * [Amazon Web Services](https://github.com/aws/)
 * [Microsoft](https://github.com/Microsoft/)
 * [Globo](https://github.com/globocom)
+
+## Nem tudo é sobre código fonte
+No GitHub a maioria dos projetos são o código fonte de algum software. Mas também existem diversos repositórios com outros propósitos. Tutoriais, traduções, listas de discussão...
+* [Traduz-ai](https://github.com/ericdouglas/traduz-ai)
+* [PosteMais](https://github.com/LFeh/poste-mais)
+* [AwesomeCourses](https://github.com/prakhar1989/awesome-courses)
+* [AngularJS Learning](https://github.com/cironunes/AngularJS-Learning)
+* [Angular Style Guide](https://github.com/toddmotto/angularjs-styleguide)
+* [Material Design Icons](https://github.com/google/material-design-icons)
 
 ## Quero usar mas não sei nada disso...
 * [Contribuindo em projetos opensource com o GitHub](http://tableless.com.br/contribuindo-em-projetos-open-source-com-o-github/)
